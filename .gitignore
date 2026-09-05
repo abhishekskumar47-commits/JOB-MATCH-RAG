@@ -1,0 +1,29 @@
+# Environment
+.env
+*.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Data (raw pulled postings can be large / refreshed live — don't commit bulk data)
+data/raw/
+data/*.csv
+data/*.json
+!data/.gitkeep
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Model artifacts (large files)
+*.pkl
+*.joblib
+*.faiss
+models/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,11 @@
+requests
+python-dotenv
+sentence-transformers
+faiss-cpu
+scikit-learn
+pandas
+numpy
+fastapi
+uvicorn
+streamlit
+groq
