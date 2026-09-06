@@ -50,7 +50,7 @@ Live Job APIs (Adzuna / Jooble / RemoteOK)
 ## Current status (updated as I build)
 
 - [x] Repo structure and README
-- [ ] Live data ingestion (Adzuna API) — in progress
+- [x] Live data ingestion (Adzuna API) — in progress
 - [ ] Baseline RAG retrieval (embeddings + FAISS)
 - [ ] Labeled dataset for reranker (manual + heuristic bootstrap)
 - [ ] Reranker training + evaluation (precision@k)
