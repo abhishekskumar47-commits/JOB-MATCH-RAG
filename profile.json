@@ -1,0 +1,34 @@
+{
+  "name": "Abhishek S Kumar",
+  "target_roles": [
+    "AI/ML Engineer",
+    "Data Scientist",
+    "Data Analyst"
+  ],
+  "target_locations": [
+    "Kochi",
+    "Trivandrum",
+    "Bengaluru",
+    "Chennai",
+    "Dubai"
+  ],
+  "skills": [
+    "Python",
+    "PyTorch",
+    "OpenCV",
+    "CNNs",
+    "RAG",
+    "LLMs",
+    "Embeddings",
+    "FastAPI",
+    "SQL",
+    "Supabase"
+  ],
+  "experience_summary": [
+    "B.Tech in Artificial Intelligence & Data Science, Dhanalakshmi Srinivasan Engineering College (Anna University), Oct 2021 - May 2025",
+    "Techolas internship - AI/ML project work",
+    "Pathvera AI - debugged production issue: Supabase 'role' column missing from profiles table (present in users table), causing Edge Function failures",
+    "Built job-match-rag: a RAG + ML system that retrieves live job postings and scores match quality against a resume"
+  ],
+  "resume_text": "ABHISHEK S KUMAR\nThrissur, Kerala, India | +91 8590791959 | abhishekskumar2@gmail.com | Open to Relocation\nLinkedIn: linkedin.com/in/abhishek-s-kumar-627821263 | GitHub: github.com/abhishekskumar47-commits\n\nPROFESSIONAL SUMMARY\nB.Tech graduate in Artificial Intelligence & Data Science (2025) with hands-on experience developing AI-powered mobile applications and contributing to full-stack, production-ready solutions. Experienced in integrating OpenAI GPT-4.1 Mini APIs, building LLM-powered recommendation systems, debugging RAG pipelines, and developing applications using React Native, Expo, Firebase, and Supabase (PostgreSQL). Proficient in Python, SQL, Machine Learning, Generative AI, and Prompt Engineering. Currently building foundational skills in Deep Learning and Computer Vision (TensorFlow, Scikit-learn, OpenCV) to extend into model-driven AI development. OPEN TO RELOCATION\n\nTECHNICAL SKILLS\nProgramming: Python, SQL, JavaScript, MySQL\nAI & Machine Learning: Machine Learning, Deep Learning, TensorFlow, Keras, Scikit-learn, Feature Engineering, Data Preprocessing, Model Evaluation\nComputer Vision & Deep Learning (Foundational): PyTorch, OpenCV, Pillow, Scikit-image, Convolutional Neural Networks (CNNs), Image Classification\nGenerative AI: LLMs, OpenAI API Integration, Prompt Engineering, RAG, Recommendation Systems\nFull-Stack: React Native, Expo, Node.js, REST API Integration\nDatabases & Cloud: Supabase (PostgreSQL), Firebase\nData Science: Pandas, NumPy, EDA, Predictive Modeling, Matplotlib, Seaborn\nTools: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Power BI, Tableau\n\nEXPERIENCE\nJunior AI Developer Intern, April 2026 - June 2026\nExpectation Walkers GenAI Research and Services Pvt. Ltd.\nPathvera AI\n- Developed AI-powered mobile application features using React Native and Expo in a collaborative development team.\n- Built a student-side AI recommendation engine using OpenAI GPT-4.1 Mini API for personalized educational and career recommendations.\n- Contributed to full-stack development using Supabase (PostgreSQL) and Firebase, integrating AI features, APIs, and application workflows.\n- Diagnosed and resolved a production authentication bug caused by a missing role column in the profiles table (present in the users table), and fixed related Supabase Edge Function failures, restoring login stability.\nMonavo\n- Contributed to full-stack development using React Native, Node.js, and Firebase.\n- Debugged and optimized RAG pipelines and supported vector database integration for semantic search.\n- Contributed to application debugging, testing, and Google Play Store deployment.\n\nData Science & AI Intern, September 2025 - April 2026; Rejoined July 2026 - Present\nTecholas, Kochi\n- Performed EDA and data preprocessing using Python, Pandas, and NumPy; developed and evaluated ML classification models using Scikit-learn.\n- Wrote SQL queries and developed interactive Power BI dashboards to generate business insights.\n\nPROJECTS\nZomato Bangalore Market Analysis (Python, Pandas, SQL, Power BI, DAX)\n- Analyzed 51,000+ restaurant records using Python, Pandas, and SQL, developed preprocessing workflows, and built interactive Power BI dashboards with DAX for business insights.\nBraille Converting Communication Device (ESP32, IoT, Embedded Systems)\n- Developed a hardware-software system converting text and speech into real-time Braille output, implementing embedded and signal-processing logic for accessibility.\nJob Match RAG - In Progress (Python, RAG, Embeddings, Semantic Search)\n- Building a retrieval-augmented job-matching system: ingesting live job postings via API and normalizing them against resume data, with a planned reranker to score match relevance.\n\nEDUCATION\nB.Tech in Artificial Intelligence & Data Science, Anna University, October 2021 - July 2025\n\nSOFT SKILLS\nAnalytical Thinking | Research Curiosity | Problem-Solving | Quick Learner | Adaptability | Attention to Detail | Collaborative Team Player | Requirement Gathering"
+}
