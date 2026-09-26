@@ -51,7 +51,7 @@ Live Job APIs (Adzuna / Jooble / RemoteOK)
 
 - [x] Repo structure and README
 - [x] Live data ingestion (Adzuna API) — in progress
-- [ ] Baseline RAG retrieval (embeddings + FAISS)
+- [x] Baseline RAG retrieval (embeddings + FAISS)
 - [ ] Labeled dataset for reranker (manual + heuristic bootstrap)
 - [ ] Reranker training + evaluation (precision@k)
 - [ ] LLM explanation layer
